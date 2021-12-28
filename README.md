@@ -172,6 +172,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 137. Improving Ethical Outcomes with Machine-in-the-Loop: Broadening Human Understanding of Data Annotations.2021.[PDF](https://arxiv.org/abs/2112.09738)
 138. LUC at ComMA-2021 Shared Task: Multilingual Gender Biased and Communal Language Identification without Using Linguistic Features.2021.[PDF](https://arxiv.org/abs/2112.10189)
 139. Quantifying Gender Biases Towards Politicians on Reddit.2021.[PDF](https://arxiv.org/abs/2112.12014)
+140. An Interdisciplinary Approach for the Automated Detection and Visualization of Media Bias in News Articles.2021.[PDF](https://arxiv.org/abs/2112.13352)
 
 ## Review article
 
@@ -180,6 +181,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
 4. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
 5. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
+6. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models.2021.[PDF](https://arxiv.org/abs/2112.07447)
+7. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-Trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 
 
 ## Bias analysis
@@ -241,6 +244,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 6. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
 7. Identifying Framing Bias in Online News.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
 8. Unsupervised Discovery of Implicit Gender Bias.2020.EMNLP.[PDF](https://arxiv.org/abs/2004.08361)
+9. CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models.EMNLP 2020.[PDF](https://arxiv.org/abs/2010.00133)
 
 
 ## Model de-bias
