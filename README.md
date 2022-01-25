@@ -180,6 +180,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 145. Gender Bias in Text: Labeled Datasets and Lexicons.2022.[PDF](https://arxiv.org/abs/2201.08675)
 146. Regional Negative Bias in Word Embeddings Predicts Racial Animus - But Only via Name Frequency.2022.[PDF](https://arxiv.org/abs/2201.08451)
 147. Can Model Compression Improve NLP Fairness.2022.[PDF](https://arxiv.org/abs/2201.08542)
+148. Bias in Automated Speaker Recognition.2022.[PDF](https://arxiv.org/abs/2201.09486)
 
 ## Review article
 
@@ -191,6 +192,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 6. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models.2021.[PDF](https://arxiv.org/abs/2112.07447)
 7. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-Trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 8. A Survey on Gender Bias in Natural Language Processing.2021.[PDF](https://arxiv.org/abs/2112.14168)
+9. A Survey on Bias in Deep NLP.2021.[PDF](https://www.mdpi.com/2076-3417/11/7/3184/htm)
 
 
 ## Bias analysis
