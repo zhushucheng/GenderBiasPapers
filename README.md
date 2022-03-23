@@ -200,6 +200,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 165. Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching.2022.[PDF](https://arxiv.org/abs/2203.08979)
 166. Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists.2022.[PDF](https://arxiv.org/abs/2203.09192)
 167. Mitigating Gender Bias in Machine Translation through Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.10675)
+168. A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.11933)
+169. A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation.2022.[PDF](https://arxiv.org/abs/2203.11849)
+170. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective.2022.[PDF](https://arxiv.org/abs/2203.11401)
 
 ## Review article
 
@@ -350,8 +353,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 4. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020.[PDF](https://arxiv.org/abs/1912.04778v1)
 5. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
 6. StereoSet: Measuring Stereotypical Bias in Pretrained Language Models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
-7. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
-8. Ruddit: Norms of Offensiveness for English Reddit Comments.ACL 2021.[PDF](https://arxiv.org/abs/2106.05664)
+7. He said “who’s gonna take care of your children when you are at ACL?”:Reported Sexist Acts are Not Sexist.2020.ACL.[PDF](https://aclanthology.org/2020.acl-main.373.pdf)
+8. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
+9. Ruddit: Norms of Offensiveness for English Reddit Comments.ACL 2021.[PDF](https://arxiv.org/abs/2106.05664)
 
 
 ## Conference
