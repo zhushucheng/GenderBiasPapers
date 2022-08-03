@@ -302,6 +302,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 267. Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?.2022.[PDF](https://arxiv.org/abs/2207.10551)
 268. The Birth of Bias: A Case Study on the Evolution of Gender Bias in an English Language Model.2022.[PDF](https://arxiv.org/abs/2207.10245)
 269. Toward Fairness in Speech Recognition: Discovery and mitigation of performance disparities.2022.[PDF](https://arxiv.org/abs/2207.11345)
+270. Bias in (Non)-Contextual Clinical Word Embeddings.2022.[PDF](https://arxiv.org/abs/2208.01341)
+271. On the Limitations of Sociodemographic Adaptation with Transformers.2022.[PDF](https://arxiv.org/abs/2208.01029)
+272. Generative Bias for Visual Question Answering.2022.[PDF](https://arxiv.org/abs/2208.00690)
 
 ## Review article
 
@@ -342,6 +345,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 22. Towards Understanding Gender Bias in Neural Relation Extraction.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.265/)
 23. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[PDF](https://arxiv.org/abs/2002.07786)
 24. Analyzing Gender Bias within Narrative Tropes.2020.[PDF](https://arxiv.org/pdf/2011.00092.pdf)
+25. On Transferability of Bias Mitigation Effects in Language Model Fine-Tuning. NAACL 2021.[PDF](https://aclanthology.org/2021.naacl-main.296.pdf)
 
 
 ## Bias measurement
@@ -419,6 +423,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.2021.AAAI.(Best Paper).[PDF](https://arxiv.org/abs/2104.14795)
 38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
 39. UnQovering Stereotyping Biases via Underspecified Questions.Findings of EMNLP 2020.[PDF](https://arxiv.org/abs/2010.02428)
+40. Contextualizing Hate Speech Classifiers with Post-hoc Explanation. ACL 2020.[PDF](https://aclanthology.org/2020.acl-main.483.pdf)
+41. Learning Adversarially Fair and Transferable Representations. ICML 2018. [PDF](https://arxiv.org/pdf/1802.06309)
 
 
 
@@ -520,8 +526,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Psychology
 
-1. 偏见、歧视与刻板印象，有什么不一样?.[HTML](https://www.jianshu.com/p/b5c6465a9b73)
-2. Implicit Bias: What It Means and How It Affects Behavior.[HTML](https://www.thoughtco.com/understanding-implicit-bias-4165634)
+1. Implicit Bias: What It Means and How It Affects Behavior.[HTML](https://www.thoughtco.com/understanding-implicit-bias-4165634)
 
 ## Relevant literature
 
