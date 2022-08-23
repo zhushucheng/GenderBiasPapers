@@ -27,9 +27,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Volume
 
-1. [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-38.pdf)
-2. [Proceedings of the Second Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.gebnlp-1/)
+1. [Proceedings of the 1st Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-38.pdf)
+2. [Proceedings of the 2nd Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.gebnlp-1/)
 3. [Proceedings of the 3rd Workshop on Gender Bias in Natural Language Processing](https://aclanthology.org/volumes/2021.gebnlp-1/)
+4. [Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing](https://aclanthology.org/volumes/2022.gebnlp-1/)
 
 ## ArXiv's latest related papers
 
@@ -306,6 +307,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 271. On the Limitations of Sociodemographic Adaptation with Transformers.2022.[PDF](https://arxiv.org/abs/2208.01029)
 272. Generative Bias for Visual Question Answering.2022.[PDF](https://arxiv.org/abs/2208.00690)
 273. Exploring Gender Bias in Retrieval Models.2022.[PDF](https://arxiv.org/abs/2208.01755)
+274. Gender Bias and Universal Substitution Adversarial Attacks on Grammatical Error Correction Systems for Automated Assessment.2022.[PDF](https://arxiv.org/abs/2208.09466)
+275. Selection Collider Bias in Large Language Models.2022.[PDF](https://arxiv.org/abs/2208.10063)
 
 ## Review article
 
